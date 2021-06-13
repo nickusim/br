@@ -1,0 +1,27 @@
+1)Sakura
+Шрифт: Playfair Display
+Цвет:  #EC8585 
+       #FFFFFF
+2)Planes
+Шрифт: Open Sans
+Цвет:  #2422A8
+       #0F6A0F
+3)Косметика саре
+Шрифт: Open Sans
+Цвет:  #AC8F7B
+       #C4C4C4
+       #AB9E95
+4)Furniture
+Шрифт: Noto Sans
+Цвет:  #4B5942
+       #DBB99D(60%)
+       #F8FCFD
+5)Bolt Usain
+Шрифт: Trirong
+Цвет:  #000000
+       #FFFFFF
+6)Торты на заказ
+Шрифт: Comfortaa
+Цвет:  #2E3648
+       #FFFFFF
+       #F06B65
